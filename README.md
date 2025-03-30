@@ -1,6 +1,9 @@
 # 🌍 Land Use Change in Indonesia: Monitoring Zero-Deforestation Commitment Using Remote Sensing
 
-This project addresses the question: **"To what extent is the zero-deforestation commitment being upheld in Indonesia?"** The study focuses on classifying land use changes from vegetation (rainforest, shrubland, wetland) to palm oil plantations between two time points. A representative project area was selected in the southern part of Borneo (Indonesia), specifically in the provinces of Kalimantan Selatan and Kalimantan Tengah. The study was conducted as part of the module **"Applied Remote Sensing in Geoscience"** at TU Bergakademie Freiberg during the winter semester 2024-25.  
+This project addresses the question: **"To what extent is the zero-deforestation commitment being upheld in Indonesia?"** The study focuses on classifying land use changes from vegetation (rainforest, shrubland, wetland) to palm oil plantations between two time points. 
+
+A representative project area was selected in the southern part of Borneo (Indonesia), specifically in the provinces of Kalimantan Selatan and Kalimantan Tengah. The study was conducted as part of the module **"Applied Remote Sensing in Geoscience"** at TU Bergakademie Freiberg during the winter semester 2024-25.
+
 This repository contains the implementation of land use classification and change detection in the form of a Jupyter Notebook. The analysis is based on Sentinel-2 data and uses machine learning to identify land use changes between two time points.
 
 ---
