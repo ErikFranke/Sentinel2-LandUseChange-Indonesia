@@ -49,7 +49,7 @@ The script was tested in **Google Colab Pro** with extended RAM due to the high 
    Download the data from the [Google Drive Folder](https://drive.google.com/drive/folders/1B8sOcUJ7OA7zvgymPTMpvX0zoLoPXuAO?usp=sharing) and place it in the `input_dir` directory.
 
 3. **Open the script in Google Colab:**
-   Upload the file `remote_sensing_class-change_indo-forest_colabCPU.ipynb` to Google Colab.
+   Upload the file `remote_sensing_class-change_indo-forest_colabCPU_clean.ipynb` to Google Colab.
 
 4. **Run the script:**
    ⚙️ **Requirements:** Ensure the following Python libraries are installed:
